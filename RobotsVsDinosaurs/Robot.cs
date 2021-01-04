@@ -13,13 +13,13 @@ namespace RobotsVsDinosaurs
         public Weapon weapon;
 
         
-        public Robot(string name, weapon) 
+        public Robot(string name, string type) 
         {  
          //Constructor
             this.name = name;
             health = 125;
             powerLvl = 25;
-            weapon = new Weapon();
+            weapon = new Weapon(type);
             
         }
         

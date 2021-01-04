@@ -2,3 +2,12 @@ C:\Users\Patrick\Desktop\Coding Class Contents\RobotsVsDinosaurs\RobotsVsDinosau
 C:\Users\Patrick\Desktop\Coding Class Contents\RobotsVsDinosaurs\RobotsVsDinosaurs\obj\Debug\netcoreapp3.1\RobotsVsDinosaurs.AssemblyInfoInputs.cache
 C:\Users\Patrick\Desktop\Coding Class Contents\RobotsVsDinosaurs\RobotsVsDinosaurs\obj\Debug\netcoreapp3.1\RobotsVsDinosaurs.AssemblyInfo.cs
 C:\Users\Patrick\Desktop\Coding Class Contents\RobotsVsDinosaurs\RobotsVsDinosaurs\obj\Debug\netcoreapp3.1\RobotsVsDinosaurs.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Desktop\Coding Class Contents\RobotsVsDinosaurs\RobotsVsDinosaurs\bin\Debug\netcoreapp3.1\RobotsVsDinosaurs.exe
+C:\Users\Patrick\Desktop\Coding Class Contents\RobotsVsDinosaurs\RobotsVsDinosaurs\bin\Debug\netcoreapp3.1\RobotsVsDinosaurs.deps.json
+C:\Users\Patrick\Desktop\Coding Class Contents\RobotsVsDinosaurs\RobotsVsDinosaurs\bin\Debug\netcoreapp3.1\RobotsVsDinosaurs.runtimeconfig.json
+C:\Users\Patrick\Desktop\Coding Class Contents\RobotsVsDinosaurs\RobotsVsDinosaurs\bin\Debug\netcoreapp3.1\RobotsVsDinosaurs.runtimeconfig.dev.json
+C:\Users\Patrick\Desktop\Coding Class Contents\RobotsVsDinosaurs\RobotsVsDinosaurs\bin\Debug\netcoreapp3.1\RobotsVsDinosaurs.dll
+C:\Users\Patrick\Desktop\Coding Class Contents\RobotsVsDinosaurs\RobotsVsDinosaurs\bin\Debug\netcoreapp3.1\RobotsVsDinosaurs.pdb
+C:\Users\Patrick\Desktop\Coding Class Contents\RobotsVsDinosaurs\RobotsVsDinosaurs\obj\Debug\netcoreapp3.1\RobotsVsDinosaurs.dll
+C:\Users\Patrick\Desktop\Coding Class Contents\RobotsVsDinosaurs\RobotsVsDinosaurs\obj\Debug\netcoreapp3.1\RobotsVsDinosaurs.pdb
+C:\Users\Patrick\Desktop\Coding Class Contents\RobotsVsDinosaurs\RobotsVsDinosaurs\obj\Debug\netcoreapp3.1\RobotsVsDinosaurs.genruntimeconfig.cache

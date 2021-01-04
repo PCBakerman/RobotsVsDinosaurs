@@ -20,5 +20,9 @@ namespace RobotsVsDinosaurs
             energy = 96;
             attackPower = 10;
         }
+        public void Attack(Robot robotBattle)
+        {
+            robotBattle.health -= attackPower;
+        }
     }
 }
